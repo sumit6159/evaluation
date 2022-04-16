@@ -4,7 +4,7 @@
       "id": 1,
       "country": "U.S.S.R",
       "city": "moscow",
-      "population": "200000"
+      "population": "250000"
     },
     {
       "id": 2,
@@ -23,12 +23,6 @@
       "city": "lahore",
       "population": "500000",
       "id": 5
-    },
-    {
-      "country": "bangladesh",
-      "city": "dhaka",
-      "population": "20000",
-      "id": 6
     },
     {
       "country": "england",
