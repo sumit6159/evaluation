@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "country": "U.S.S.R",
+      "city": "moscow",
+      "population": "200000"
+    },
+    {
+      "id": 2,
+      "country": "U.S.A",
+      "city": "Newyork",
+      "population": "200000"
+    },
+    {
+      "id": 3,
+      "country": "India",
+      "city": "Delhi",
+      "population": "1500000"
+    },
+    {
+      "country": "pakistan",
+      "city": "lahore",
+      "population": "500000",
+      "id": 5
+    },
+    {
+      "country": "bangladesh",
+      "city": "dhaka",
+      "population": "20000",
+      "id": 6
+    },
+    {
+      "country": "england",
+      "city": "menchester",
+      "population": "3000000",
+      "id": 7
+    }
+  ]
+}
